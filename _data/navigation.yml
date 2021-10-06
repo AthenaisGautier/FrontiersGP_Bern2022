@@ -1,0 +1,14 @@
+# main links links
+main:
+  - title: "Program"
+    url: /program/
+
+  - title: "Speakers"
+    url: /speakers/    
+
+  - title: "Organizing committee"
+    url: /organizers/ 
+
+  - title: "Additional information"
+    url: /otherinfo/
+
