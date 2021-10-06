@@ -19,7 +19,7 @@ locale                   : "en-UK"
 title                    : "Workshop: Current frontiers in Gaussian Processes"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Athénaïs"
 description              : "Website of the workshop"
 url                      : "https://athenaisgautier.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/frontiersGP_Bern2022" # the subpath of your site, e.g. "/blog"
