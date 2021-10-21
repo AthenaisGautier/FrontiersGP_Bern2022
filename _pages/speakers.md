@@ -9,8 +9,32 @@ permalink: /speakers/
 Confirmed speakers
 ---
 
-  *  [*Jean Feydy (currently at Imperial College London)*](https://www.jeanfeydy.com/)  
+  *  [*TBA*](TBA)  
 
-  *  [*Filip de Roos (currently at Bosch)*](https://www.is.mpg.de/person/fderoos)  
+  *  [*TBA*](TBA)  
 
-  *  [*Carl Henrik Ek (currently at the University of Cambridge)*](http://carlhenrik.com/)  
+  *  [*TBA*](TBA)  
+
+  *  [*TBA*](TBA)  
+
+  *  [*TBA*](TBA)  
+
+  *  [*TBA*](TBA)  
+
+  *  [*TBA*](TBA)  
+
+  *  [*TBA*](TBA)  
+
+  *  [*TBA*](TBA)  
+
+  *  [*TBA*](TBA)  
+
+  *  [*TBA*](TBA)  
+
+  *  [*TBA*](TBA)  
+
+  *  [*TBA*](TBA)  
+
+  *  [*TBA*](TBA)  
+
+  *  [*TBA*](TBA)  

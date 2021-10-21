@@ -7,5 +7,4 @@ permalink: /organizers/
 {% include base_path %}
 
 ## Organizing committe
-### Athénaïs Gautier  
-### David Ginsbourger  
+Athénaïs Gautier, David Ginsbourger

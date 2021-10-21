@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Current frontiers in Gaussian Processes!"
-excerpt: "In Bern and online, 9-11 June 2022"
+excerpt: "In Bern and online, 13-15 June 2022"
 layout: splash
 redirect_from: 
   - /about/

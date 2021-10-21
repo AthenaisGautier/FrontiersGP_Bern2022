@@ -6,10 +6,28 @@ permalink: /program/
 modified: 2021-09-14
 ---
 
-First day
+June the 13th 2022
 ---
-  * [*TBA 1*]  
-TBA 1.1 
+  * [*TBA*]  
+TBA
 
-  * [*TBA 2*]  
-TBA 2.1 
+  * [*TBA*]  
+TBA
+
+June the 14th 2022
+---
+  * [*TBA*]  
+TBA
+
+  * [*TBA*]  
+TBA
+
+
+June the 15th 2022
+---
+  * [*TBA*]  
+TBA
+
+  * [*TBA*]  
+TBA
+
